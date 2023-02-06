@@ -1,4 +1,4 @@
-# Investor-Dashboard
+# Macroeconomic Investor Dashboard
 
 ## Overview
 This notebook will generate 20 years of data for 20 different classical recession indicators using FRED and Yahoo Finance data/APIs. These could be used to hedge upcoming downturns in a long portfolio, but should not be used for financial advice. Use this information at your own risk.
