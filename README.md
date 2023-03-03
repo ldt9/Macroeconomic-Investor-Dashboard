@@ -34,7 +34,7 @@ create_investor_dashboard(start_date)
 ```
 
 ## Example Output - PNG
-![image](https://user-images.githubusercontent.com/84938803/217058631-ab6863c1-1dd1-4056-a8b7-6deb415e1eb1.png)
+![image](https://user-images.githubusercontent.com/84938803/222829358-45d4cfca-ffc1-4909-9c79-3666d767237d.png)
 
 ## Libraries Used
 - [YFinance](https://github.com/ranaroussi/yfinance)
